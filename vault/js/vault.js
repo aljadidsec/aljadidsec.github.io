@@ -2,7 +2,7 @@ var app = new Vue({
     el: '#app',
     data: {
         vaultNumber: null,
-        apiUrl: 'https://route.cloudispatcher.com/api/vaults/verify/',
+        apiUrl: 'https://app.cloudispatcher.com/api/vaults/verify/',
         profile: [],
         vault: [],
         address: [],
